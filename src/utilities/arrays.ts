@@ -31,7 +31,7 @@ const cut3 = (arr:any[]) => {
   return arr;
 };
 
-module.exports = {
+export default {
   concatArr,
   addArr,
   lgNum,
