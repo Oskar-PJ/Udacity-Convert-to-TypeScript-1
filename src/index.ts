@@ -14,7 +14,7 @@ const arrSum : number = arrays.addArr(numArr);
 const mixArr = arrays.concatArr(numArr, wordArr);
 const myNum : number = ('15' as unknown) as number % 2;
 const five = ('5' as any) as number
-
+//
 // results of function calls
 console.log(arrays.cut3(mixArr));
 console.log(numbers.sum(arrSum, myNum));
